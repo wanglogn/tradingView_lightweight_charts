@@ -30,7 +30,7 @@ jobs:
         run: pnpm run build
 
       - name: Create 404.html for SPA routing
-        run: cp dist/static/index.html dist/static/404.html
+        run: cp dist/index.html dist/404.html
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
