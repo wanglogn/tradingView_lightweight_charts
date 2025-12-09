@@ -1,10 +1,6 @@
 # 
 
-项目编号: 7581286829962576163
-
-本项目是由 [网站开发专家](https://space.coze.cn/) 创建.
-
-[**项目地址**](https://space.coze.cn/task/7581286829962576163)
+[**项目访问地址**](https://wanglogn.github.io/tradingView_lightweight_charts/)
 
 ## 本地开发
 
