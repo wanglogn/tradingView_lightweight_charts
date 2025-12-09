@@ -55,7 +55,7 @@ const ThemeProvider: React.FC<{ children: React.ReactNode }> = ({ children }) =>
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/tradingView_lightweight_charts">
       <ThemeProvider>
         <App />
         <Toaster />
